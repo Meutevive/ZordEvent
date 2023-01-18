@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2685F959-20EA-49B0-91B3-3559957D117D}|Default">
+  <MonoDevelop.Ide.ItemProperties.InterfacePPE PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MenuPrincipal.cs">
+    <Files>
+      <File FileName="FormAjouterP.cs" Line="1" Column="1" />
+      <File FileName="MenuPrincipal.cs" Line="1" Column="1" />
+      <File FileName="../../../../../../../Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Microsoft.Common.CurrentVersion.targets" Line="2337" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfacePPE" expanded="True">
+            <Node name="InterfacePPE" expanded="True">
+              <Node name="MenuPrincipal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
